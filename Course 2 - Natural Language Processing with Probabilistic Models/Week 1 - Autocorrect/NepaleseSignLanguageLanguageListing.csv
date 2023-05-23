@@ -1,0 +1,27 @@
+﻿Joshua Project People Group Data
+
+jppeoples.ROG3,Ctry,jppeoples.PeopleID3,PeopNameAcrossCountries,PeopNameInCountry,jplangpeopctry.LanguageRank,Population,JPScale,LeastReached,jppeoples.ROL3,Language,RLG3,PrimaryReligion,PercentAdherents,PercentEvangelical,PeopleID1,AffinityBloc,PeopleID2,PeopleCluster,RegionCode,RegionName,ROG2,Continent,10_40Window
+NP,Nepal,20056,"Brahmin Hill","Brahmin Hill",S,3726000,1,Y,npi,"Nepalese Sign Language",5,Hinduism,0.003,,21,"South Asian Peoples",417,"South Asia Forward Caste - Brahmin",4,"Asia, South",ASI,Asia,Y
+NP,Nepal,20057,"Brahmin Terai","Brahmin Terai",S,121000,1,Y,mai,"Nepalese Sign Language",5,Hinduism,0.000,0.000,21,"South Asian Peoples",417,"South Asia Forward Caste - Brahmin",4,"Asia, South",ASI,Asia,Y
+NP,Nepal,16589,Chhetri,Chhetri,S,5092000,1,Y,npi,"Nepalese Sign Language",5,Hinduism,0.140,,21,"South Asian Peoples",442,"South Asia Hindu - other",4,"Asia, South",ASI,Asia,Y
+NP,Nepal,19007,Deaf,Deaf,P,231000,1,Y,nsp,"Nepalese Sign Language",5,Hinduism,2.850,,26,Deaf,328,Deaf,4,"Asia, South",ASI,Asia,Y
+NP,Nepal,13322,Newah,Newah,S,1532000,1,Y,new,"Nepalese Sign Language",5,Hinduism,0.913,,21,"South Asian Peoples",442,"South Asia Hindu - other",4,"Asia, South",ASI,Asia,Y
+NP,Nepal,15464,Tharu,"Tharu unspecified",S,1773000,1,Y,thl,"Nepalese Sign Language",5,Hinduism,3.411,,21,"South Asian Peoples",442,"South Asia Hindu - other",4,"Asia, South",ASI,Asia,Y
+
+Bible Translation status:
+0,Unspecified
+1,Translation Needed
+2,Translation Started
+3,Portions
+4,New Testament
+5,Complete Bible
+
+"Joshua Project welcomes corrections / updates to this data.  Please send feedback to:"
+
+Email:,info@joshuaproject.net
+Web:,www.joshuaproject.net
+Office:,719.886.4000
+Postal:,Joshua Project 
+,PO Box 62614
+,"Colorado Springs, CO 80962"
+,United States
